@@ -4,7 +4,7 @@
   "description": "> Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.",
   "main": "server.js",
   "dependencies": {
-    "aws-sdk": "^2.605.0",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "concurrently": "^5.0.2",
